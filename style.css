@@ -1,0 +1,46 @@
+button {
+    background-color: rgb(30, 163, 12);
+    border-radius: 8px;
+    text-align: center;
+    font: Garamond,sans-serif;
+    color: red;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgba(186, 239, 248, 0.808);
+}
+
+p {
+    background-color: beige;
+    color: black;
+    font-size: 16px;
+    text-align: left;
+    font-family:  monospace;
+}
+
+ul {
+    background-color: beige;
+    color: black;
+    font-size: 16px;
+    text-align: left;
+    font-family:  monospace;
+}
+
+ol {
+    background-color: beige;
+    color: black;
+    font-size: 16px;
+    text-align: left;
+    font-family:  monospace;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+img {
+    border-radius: 10px;
+}
